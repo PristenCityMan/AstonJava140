@@ -1,4 +1,4 @@
-package ru.aston.hometask01;
+package main.ru.aston.hometask01;
 
 public class MyHashMap<K, V> {
     private static class Node<K, V> {
